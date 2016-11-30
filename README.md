@@ -1,2 +1,2 @@
 # webpack
-Basic Webpack Configurations
+Basic Webpack config files and setups
